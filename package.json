@@ -1,0 +1,23 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "Node naive blockchain",
+  "main": "Block.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelcecci/Blockchain.git"
+  },
+  "keywords": [
+    "blockchain",
+    "node"
+  ],
+  "author": "Miguel Cece <miguelceccineto@gmail.com> (https://miguelcecci.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelcecci/Blockchain/issues"
+  },
+  "homepage": "https://github.com/miguelcecci/Blockchain#readme"
+}
